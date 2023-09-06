@@ -2,8 +2,7 @@
 <p>👀 I’m interested in ... </p>
 <p> Web Development.</p>
 <p>Game Design.</p>
-<p><img src="![image](https://github.com/Kuriboss/Kuriboss/assets/78835067/33496327-0c59-4184-b935-f470909d5db0)
-" />Project Management.</p>
+![image](https://github.com/Kuriboss/Kuriboss/assets/78835067/33496327-0c59-4184-b935-f470909d5db0)Project Management.
 <p align="center"> Languages and tools:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,js,css,python,php,cs,mongodb,sql" />
