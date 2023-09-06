@@ -1,3 +1,8 @@
+<style>
+  p{
+    align:center;
+  }
+</style>
 <p>👋 Hello, I'm Nadir, a full stack web developer passionate about development and someone who values the visual feedback of creating clean, usable products. </p>
 <p>👀 I’m interested in ... </p>
 <p> Web Development.</p>
