@@ -6,7 +6,7 @@
   <p>Project Management.</p>
 <p> Languages and tools:     
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,js,css,python,php,cs,mongodb,sql" />
+    <img src="https://skillicons.dev/icons?i=git,html,js,css,python,php,cs,mongodb,sql, " />
   </a>
 </p>
 <p>🌱 I’m currently learning</p>
