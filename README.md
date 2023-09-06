@@ -1,4 +1,4 @@
-<p>👋 Hi, I’m Nadir. </p>
+<p>👋 Hello, I'm Nadir, a full stack web developer passionate about development and someone who values the visual feedback of creating clean, usable products. </p>
 <p>👀 I’m interested in ... </p>
 <p>Web Development</p>
 <p>Game Design</p>
