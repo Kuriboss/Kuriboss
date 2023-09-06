@@ -5,7 +5,7 @@
 <p>Project Management</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,html,js,css,python,php,cs,mongodb,sql" />
   </a>
 </p>
 <p>🌱 I’m currently learning</p>
