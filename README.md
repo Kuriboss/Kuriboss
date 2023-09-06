@@ -4,7 +4,7 @@
 <p> Web Development.</p>
 <p>Game Design.</p>
   <p>Project Management.</p>
-<p> Languages and tools: %nbsp      
+<p> Languages and tools: %nbsp;      
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,js,css,python,php,cs,mongodb,sql" />
   </a>
